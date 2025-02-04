@@ -1,0 +1,481 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+header{
+    padding: 5px 0;
+}
+.logo{
+    margin-bottom: 5px;
+}
+.menu ul li a{
+    margin-bottom: 8px;
+    padding: 0 0 !important;
+}
+.btn_sign{
+    margin: 0;
+    width: 120px;
+    height: 40px;
+}
+.banner{
+    padding:0;
+}
+.co_item{
+    padding-top: 20px;
+}
+.b_img{
+    padding: 0 0px 35px;
+}
+.b_text{
+    text-align: center;
+}
+.b_h1{
+    font-size: 30px !important; 
+    line-height: 35px;
+    padding: 0 25px;      
+}
+.b_p1{
+    padding: 10px 47px 26px;
+}
+.b_src{
+ margin: 10px 0px 13px 24px !important
+}
+.btn_b{
+font-size: 18px;
+margin: 10px -5px;
+text-align: center;
+}
+.feature{
+  padding-top: 20px; 
+}
+.f_icon{
+    padding: 15px 0;
+}
+.t_title{
+    padding-top: 25px;
+}
+.t_h1{
+font-size: 35px;
+}
+.co_img {
+    padding: 0 24px;
+}
+.co_p1{
+text-align: center;
+}
+.co_h2{
+text-align: center;
+}
+.co_p2 {
+    text-align: center;
+}
+.co_li {
+    margin: 0 7px 0 5px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.img_rap {
+    padding: 20px 25px 0px;
+}
+.top_text{
+    text-align: center;
+    padding: 24px 0 11px 0;
+    font-size: 42px;
+    line-height: 45px;
+}
+.ul_rap{
+    text-align: center;
+    padding-bottom: 0;
+}
+.ex_li{
+    padding-bottom: 0px;
+}
+.ex_h2{
+    font-size: 24px;
+}
+.ex_p {
+    padding: 0 25px;
+}
+/*student start*/
+.student {
+    padding: 0px 24px;
+}
+.st_h1 {
+    font-size: 25px !important;
+    line-height: 40px;
+}
+.st_p{
+font-size: 16px;
+}
+.st_text{
+    justify-content: center !important;
+}
+.st_text{
+    margin: 0;
+}
+.st_item {
+    padding: 10px 0 0 0;
+}
+.citem{
+        padding-top: 23px;
+}
+.t_title2{
+ padding-top: 5px !important;   
+}
+/*form start*/
+.form_1{
+padding: 0px 0px;
+}
+.frm_h1 {
+    font-size: 25px;
+    line-height: 27px;
+    padding-top: 10px;
+}
+.frm_h2 {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 11px 50px;
+}
+.f_sent {
+    padding-bottom: 33px;
+}
+.form_2 {
+    padding: 0px 0px;
+}
+.btn_send{
+    padding: 0px 12px;
+}
+/*footer top*/
+.footer_top{
+    text-align: center;
+    padding: 25px 0 20px;
+}
+.ft_details {
+    padding: 0px 0px;
+}
+.ft_links h2 {
+    margin-bottom: 10px;
+    font-size: 23px;
+    line-height: 29.3px;
+}
+footer {
+    padding: 0px 0 31px 0px;
+}
+footer p{
+    font-size: 13px;
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+header{
+    padding: 5px;
+}
+.logo{
+    margin-bottom: 5px;
+}
+.menu ul li a{
+    margin-bottom: 10px;
+    padding: 0 0px !important;
+}
+.btn_sign{
+    margin: 0;
+    width: 120px;
+    height: 40px;
+}
+.banner{
+    padding:0;
+}
+.b_img{
+    padding: 0 100px 35px;
+}
+.b_text{
+    text-align: center;
+}
+.b_h1{
+    font-size: 42px !important; 
+    line-height: 53px;
+    padding: 0 85px;      
+}
+.b_p1{
+    padding: 20px 63px 44px;
+}
+.b_src{
+ margin: 10px 0px 14px 80px !important
+}
+.btn_b{
+    font-size: 18px;
+margin: 10px 120px;
+}
+.feature{
+  padding-top: 20px; 
+}
+.f_icon{
+    text-align: right !important;
+}
+.t_title{
+    padding-top: 25px;
+}
+.t_h1{
+font-size: 35px;
+}
+.co_img {
+    padding: 0 24px;
+}
+.co_p1{
+text-align: center;
+}
+.co_h2{
+text-align: center;
+}
+.co_p2 {
+    text-align: center;
+}
+.co_li {
+    margin: 0 7px 0 5px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.img_rap {
+    padding: 20px 95px 0px;
+}
+.top_text{
+    text-align: center;
+    padding: 28px 0 20px 0;
+    font-size: 52px;
+    line-height: 60px;
+}
+.ul_rap{
+    text-align: center;
+    padding-bottom: 0;
+}
+.ex_li{
+    padding-bottom: 18px;
+}
+/*student start*/
+.st_h1 {
+    font-size: 25px;
+    line-height: 34px;
+}
+.st_p{
+font-size: 14px;
+}
+.st_text{
+    justify-content: center !important;
+}
+.st_text{
+    margin: 0;
+}
+.st_item {
+    padding: 28px 0 0 0;
+}
+.t_title2{
+ padding-top: 5px !important;   
+}
+/*form start*/
+.form_1{
+padding: 23px 85px;
+}
+.frm_h1 {
+    font-size: 34px;
+    line-height: 36px;
+    padding-top: 25px;
+}
+.frm_h2 {
+    font-size: 16px;
+    line-height: 22px;
+    padding: 14px 64px;
+}
+.f_sent {
+    padding-bottom: 33px;
+}
+.form_2 {
+    padding: 0px 0px;
+}
+.btn_send{
+    padding: 0px 12px;
+}
+/*footer top*/
+.footer_top{
+    text-align: center;
+    padding: 25px 0 20px;
+}
+.ft_details {
+    padding: 10px 73px;
+}
+.ft_links h2 {
+    margin-bottom: 10px;
+    font-size: 23px;
+    line-height: 29.3px;
+}
+footer {
+    padding: 0px 0 31px 0px;
+}
+footer p{
+    font-size: 16px;
+}
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.banner{
+    padding:0;
+}
+.menu ul li a{
+    margin-bottom: 10px;
+    padding: 0 0px !important;
+}
+.btn_sign{
+    margin: 0;
+    width: 120px;
+    height: 40px;
+}
+.b_img{
+    padding: 0 100px 35px;
+}
+.b_text{
+    text-align: center;
+}
+.b_h1{
+    font-size: 58px !important; 
+    line-height: 74px;
+    padding: 0 88px;      
+}
+.b_p1{
+    padding: 20px 63px 44px;
+}
+.b_src{
+ margin: 10px 0px 14px 162px
+}
+.btn_b{
+    font-size: 20px;
+margin: 11px 130px;
+}
+.feature{
+  padding: 20px 0; 
+}
+.f_icon{
+    text-align: right !important;
+}
+.f_p1{
+padding-bottom: 30px;
+}
+.img_rap {
+    padding: 20px 95px 0px;
+}
+.top_text{
+    text-align: center;
+    padding: 28px 0 20px 0;
+}
+.ul_rap{
+    text-align: center;
+}
+/*student start*/
+.st_p{
+font-size: 17px;
+}
+.st_item {
+    padding: 28px 0 0 0;
+}
+/*form start*/
+.frm_h1 {
+    font-size: 34px;
+    line-height: 36px;
+    padding-top: 25px;
+}
+.frm_h2 {
+    font-size: 16px;
+    line-height: 22px;
+    padding: 14px 64px;
+}
+.f_sent {
+    padding-bottom: 33px;
+}
+.form_2 {
+    padding: 0px 0px;
+}
+.btn_send{
+    padding: 0px 12px;
+}
+/*footer top*/
+.footer_top{
+    text-align: center;
+    padding: 25px 0 20px;
+}
+.ft_details {
+    padding: 10px 73px;
+}
+footer {
+    padding: 0px 0 31px 0px;
+}
+footer p{
+    font-size: 18px;
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.banner{
+    padding: 50px 0;
+}
+.b_h1{
+    font-size: 47px !important;
+    line-height: 60px;
+}
+.b_p1{
+font-size: 16px;
+line-height: 28px;
+}
+.f_h2{
+font-size: 21px;
+}
+.f_p1 {
+    font-size: 14px;
+    line-height: 25px;
+}
+.co_img {
+    padding: 0 24px;
+}
+.co_p1{
+text-align: center;
+}
+.co_h2{
+text-align: center;
+}
+.co_p2 {
+    text-align: center;
+}
+.co_li {
+    margin: 0 7px 0 5px;
+    font-size: 11px;
+    font-weight: 400;
+}
+.top_text {
+    font-size: 54px;
+    padding: 19px 0 20px 0;
+}
+/*student start*/
+.st_p{
+font-size: 17px;
+}
+.st_item {
+    padding: 28px 0 0 0;
+}
+}
+/* Extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.b_h1{
+    font-size: 56px !important;
+    line-height: 75px;
+}
+.b_p1{
+font-size: 16px;
+line-height: 28px;
+}
+/*footer top*/
+.ft_details {
+padding-right: 26px;
+}
+}
+/* Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+.ft_details {
+    padding-right: 60px;
+}
+}
